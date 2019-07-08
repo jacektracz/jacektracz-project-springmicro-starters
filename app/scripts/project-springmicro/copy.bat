@@ -1,0 +1,2 @@
+mkdir C:\lkd\ht\apps_springmicro\app\src\jacektracz-project-springmicro-starters\app\scripts\project-springmicro
+cp C:\lkd\ht\apps_devsripts\src\apps\lkd-devsripts\gibs\project-springmicro\* C:\lkd\ht\apps_springmicro\app\src\jacektracz-project-springmicro-starters\app\scripts\project-springmicro
